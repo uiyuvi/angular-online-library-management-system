@@ -1,0 +1,21 @@
+1. Angular - Online Library Management System
+This is an Angular application that a library administrator uses. This app allows the admin to handle members of the library, such as adding new members/updating/removing an existing member.
+
+ 
+
+Now, you need to write unit test cases to cover all the statements of the application.
+
+ 
+
+Instructions for Running Test Cases
+
+ 
+
+Start writing the test cases
+After writing the test cases, you can test your project by clicking Run > Test or using npm test command in the terminal
+You can view the test report corresponding to the written test cases in 'test-result.xml'.
+You can view the coverage report corresponding to the written test cases in './coverage/clover.xml'.
+Once you are done with writing unit test cases and fixing quality issues, click Submit for evaluation.
+ 
+
+Note: Any syntax errors or invalid statements in your test cases will stop generating the test reports.
